@@ -24,4 +24,4 @@
   ## 6 - Identifique os requisitos funcionais, não funcionais e de domínio no caso abaixo
   
 ### a) Clínica Odontológica
-![Clínica Odontológica](https://i.ibb.co/SNzPn9Q/Clinica-Odontologica.png)
+![Clínica Odontológica](https://raw.githubusercontent.com/vifelisberto/EngenhariaSoftware/master/ClinicaOdontologica.PNG)
