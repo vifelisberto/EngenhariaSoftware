@@ -150,7 +150,8 @@
 	dentro dos métodos ágeis.
   
 	Caso contrário, a equipe não é multidisplinar, o cliente é mais reservado, já tem todo um projeto pensado
-	e não deseja mudanças e prazo e custo não são problemas, então seria aconselhavél utilizar os métodos tradicionais.
+	e não deseja mudanças e prazo e custo não são problemas, então seria aconselhavél utilizar os 
+	métodos tradicionais.
   
 ## 5 - O que é um requisito funcional, requisito não funcional e requisito de domínio?
   
@@ -214,7 +215,9 @@
 ## 12) Qual a diferença entre manutenção e evolução? Quando usamos manutenção e quando usamos evolução?
 
 	Manutenção é uma fase onde somente correções para manter o software operacional são feitas.
-	Evolução é a fase de vida de um software que está em uso operacional e está evoluindo com novos requisitos.
+	
+	Evolução é a fase de vida de um software que está em uso operacional e está evoluindo com 
+	novos requisitos.
 
 ## 13) Quais são os tipos de manutenção?
 
@@ -224,5 +227,7 @@
 
 ## 14) Quando utilizamos reengenharia e quando utilizamos refatoração?
 
-	A reengenharia é utilizada quando um software foi utilizado por um tempo e os custos de manutenção estão aumentando.
+	A reengenharia é utilizada quando um software foi utilizado por um tempo e os custos de manutenção 
+	estão aumentando.
+
 	A refatoração é utilizada é sempre utilizada para melhoria e evolução do software.
