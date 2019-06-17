@@ -34,7 +34,8 @@
 
 ### c) Programação Exploratória
 
-	Foca em desenvolver a primeira versão do sistema o mais rápido possível, após o fim de cada versão o sistema é testado pelos usuários.
+	Foca em desenvolver a primeira versão do sistema o mais rápido possível, 
+	após o fim de cada versão o sistema é testado pelos usuários.
 	Ideal para sistemas onde não seja possível fazer especificações detalhadas.
 
 *Vantagens*
@@ -70,7 +71,8 @@
 
 ### e) Transformação Formal
 
-	Uma especificação formal(Definição matemática) do software é desenvolvida e depois transformada em um programa que preserve as regras(refinamento).
+	Uma especificação formal(Definição matemática) do software é desenvolvida e 
+	depois transformada em um programa que preserve as regras(refinamento).
 
 *Vantagens*
 
@@ -98,7 +100,8 @@
 
 ### g) Espiral
 
-	Foi criado para absorver as melhores características do modelo clássico e da protótipagem, com aspectos gerenciais.
+	Foi criado para absorver as melhores características do modelo clássico e 
+	da protótipagem, com aspectos gerenciais.
 
 *Vantagens*
 
@@ -113,9 +116,9 @@
 
 ### h) RUP
 
-	É um modelo de desenvolvimento de software, descreve um conjunto de atividades para transformar requisitos em software.
-	Baseado em componentes, interconectados.
-	Utiliza várias ferramentas, como UML, Casos de uso
+	É um modelo de desenvolvimento de software, descreve um conjunto de atividades para 
+	transformar requisitos em software.	Baseado em componentes, interconectados.
+	Utiliza várias ferramentas, como UML, Casos de uso etc.
 
 *Vantagens*
 
@@ -151,7 +154,20 @@
   
 ## 5 - O que é um requisito funcional, requisito não funcional e requisito de domínio?
   
-	
+* Funcional
+
+	Descreve funcionalidades e serviços do sistema.
+
+* Não-Funcional
+
+	Define propriedades e restrições do sistema (tempo, espaço, etc).
+	Normalmente são mais críticos.
+
+* Domínio
+
+	Derivados do domínio da aplicação e	descrevem características do sistema e
+	qualidades que refletem o domínio. Podem ser restrições sob requisitos.
+
 
 ## 6 - Identifique os requisitos funcionais, não funcionais e de domínio no caso abaixo:
  
