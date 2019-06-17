@@ -196,12 +196,33 @@
 
 ## 9) Qual a diferença entre inspeção e testes?
 
+	Inspeção se preocupa com a análise da representação do sistema estático para descobrir problemas.
+	Testes se preocupa com o comportamento do produto, com dados etc. 
+
 ## 10) Quais são os tipos de testes existentes?
+	
+* Teste de software.
+* Teste de validação.
+* Teste de Defeitos.
 
 ## 11) Qual a diferença entre user experience e user interface?
 
+	Ambos trabalham juntos e são essenciais, UX refere-se ao Design de Experiência (Analítico e Técnico).
+	UI significa Design de Interface (Gráfico).
+
+
 ## 12) Qual a diferença entre manutenção e evolução? Quando usamos manutenção e quando usamos evolução?
+
+	Manutenção é uma fase onde somente correções para manter o software operacional são feitas.
+	Evolução é a fase de vida de um software que está em uso operacional e está evoluindo com novos requisitos.
 
 ## 13) Quais são os tipos de manutenção?
 
+* Manutenção para reparar falhas de software.
+* Manutenção para adaptar o software a um ambiente operacional diferente.
+* Manutenção para adicionar ou modificar a funcionalidade do sistema.
+
 ## 14) Quando utilizamos reengenharia e quando utilizamos refatoração?
+
+	A reengenharia é utilizada quando um software foi utilizado por um tempo e os custos de manutenção estão aumentando.
+	A refatoração é utilizada é sempre utilizada para melhoria e evolução do software.
