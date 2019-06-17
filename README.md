@@ -10,13 +10,121 @@
 ## 2 - Explique como que funciona os modelos tradicionais abaixo e cite as vantagens e desvantagens de cada uma:
 
 ### a) Cascata
+
+	Um dos mais antigos e mais usados, as atividades são executadas de forma *sistémica e sequencial*.
+
+*Vantagens*
+
+* Simples e Fácil.
+
+*Desvantagens*
+
+* Atrasa a reducão de riscos.
+
 ### b) Iterativo
+
+	É o modelo cascata, sendo aplicado de forma Iterativa, as iterações iniciais atacam os maiores riscos.
+
+*Vantagens*
+
+* Os testes e integração são realizados desde o inicio, reduzindo riscos e corrigindo erros no início.
+* Permite feedback de usuários desde cedo.
+
+*Desvantagens*
+
 ### c) Programação Exploratória
+
+	Foca em desenvolver a primeira versão do sistema o mais rápido possível, após o fim de cada versão o sistema é testado pelos usuários.
+	Ideal para sistemas onde não seja possível fazer especificações detalhadas.
+
+*Vantagens*
+
+* Foco no desenvolvimento.
+* Feedback e testes desde o início.
+
+*Desvantagens*
+
+* Ausência da noção de programa correto.
+* Ferramentas de alto nível e maquinas poderosas.
+* Raramente usado em sistemas de grande porte.
+* Alto custo.
+
 ### d) Prototipação Descartável
+
+	O objetivo é entender os objetivos do sistema, inicia com requisitos vagamente entendidos.
+	Como na exploratória, a primeira versão é para o usuário experimentar/experimentar.
+
+*Vantagens*
+
+* Protótipos ajudam na qualidade da especificação no futuro.
+* Menor gasto com manutenção.
+* O treinamento dos usuários pode ser feito antes do produto ser concluído.
+
+*Desvantagens*
+
+* A construção do protótipo atrasa a implementação.
+* Demorado.
+* Alto Custo.
+* Cliente vê o protótipo e não entende que precisa ser reconstruído.
+
+
 ### e) Transformação Formal
-### f) Incremental
+
+	Uma especificação formal(Definição matemática) do software é desenvolvida e depois transformada em um programa que preserve as regras(refinamento).
+
+*Vantagens*
+
+* Programas que são corretos por construção. 
+
+*Desvantagens*
+
+* Não recomendado para o desenvolvimento de sistemas de grande porta (atualmente).
+* Provar teoremas é lento.
+
+
+### f) Incremental	
+
+	O modelo incremental, combina elementos do modelo sequencial com a filosfia iterativa da prototipagem.
+	Cada sequencial produz um entregável.
+
+*Vantagens*
+
+* A cada incrementa o usuário pode fazer uma revisão ou utilizar o produto.
+* Sempre operacional.
+
+*Desvantagens*
+
+* Cada incremento, deve implementar as solicitações do usuário e mais as funcionalidades planejadas anteriormente.
+
 ### g) Espiral
+
+	Foi criado para absorver as melhores características do modelo clássico e da protótipagem, com aspectos gerenciais.
+
+*Vantagens*
+
+* A cada ciclo da espiral, versões mais completas do software são construídas.
+* Qualidade.
+* Integra desenvolvimento e manutenção.
+
+*Desvantagens*
+
+* Dificíl convencer gerentes, de que o processo é controlável.
+* Requer experiência em avaliação de riscos.
+
 ### h) RUP
+
+	É um modelo de desenvolvimento de software, descreve um conjunto de atividades para transformar requisitos em software.
+	Baseado em componentes, interconectados.
+	Utiliza várias ferramentas, como UML, Casos de uso
+
+*Vantagens*
+
+* Acelera o desenvolvimento, com tarefas curtas e controladas.
+* Reduz o risco, por descobrir erros no inicío.
+
+*Desvantagens*
+
+* Muita documentação.
 
 ## 3 - Explique como que funciona os modelos ágeis abaixo e cite as vantagens e desvantagens de cada uma:
 
@@ -43,6 +151,8 @@
   
 ## 5 - O que é um requisito funcional, requisito não funcional e requisito de domínio?
   
+	
+
 ## 6 - Identifique os requisitos funcionais, não funcionais e de domínio no caso abaixo:
  
 ### a) Clínica Odontológica
